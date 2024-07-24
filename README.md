@@ -1,5 +1,5 @@
 # leaflet-maps-with-google-sheets-dev
-code development for improving Leaflet Maps with Google Sheets
+code development for improving Leaflet Maps with Google Sheets.
 
 ## DEVELOPMENT Demo
 - Leaflet Map FOR DEVELOPMENT https://jackdougherty.github.io/leaflet-maps-with-google-sheets-dev/index.html
